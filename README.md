@@ -1,7 +1,5 @@
 # Chat App using Node.js, React, Socket.IO, and MongoDB
 
-![Chat App](chat_app_screenshot.png)
-
 ## Description
 This Chat App is a real-time messaging application that allows users to communicate with each other via chat rooms. It is built using Node.js, React, Socket.IO, and MongoDB, providing a seamless and interactive chat experience.
 
